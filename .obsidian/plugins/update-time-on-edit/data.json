@@ -1,0 +1,21 @@
+{
+  "dateFormat": "yyyy-MM-dd",
+  "enableCreateTime": false,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 10,
+  "ignoreGlobalFolder": [
+    "_templates",
+    "_drawings",
+    "_navigation"
+  ],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "ancestry zine.md": "895c19ead64eeff2b14a96c16cf8ed8da7f340a71015dc043163fcbe9963fa31",
+    "creative technology.md": "83a8246c4536832d6d2498f98383110fac22e5cd6f3d3f9f77d1f034241dcfa5",
+    "building bots.md": "4a982b00827a692de04e448ee910884adb10e63f84e693c2272d5dfe59c4f323",
+    "the love of design process.md": "45894ef0355dd94293469e310e5ce86143f1e72a60315b9214599e1431db11f6",
+    "body tracking with ml5js.md": "adcf834c3933dd155242a54b8340a2cad288ffe83985377a5bc68390e70ed9b1"
+  }
+}

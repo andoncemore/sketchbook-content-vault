@@ -1,0 +1,12 @@
+{
+  "useTab": false,
+  "livePreview": false,
+  "attachmentFolderPath": "images",
+  "userIgnoreFilters": [
+    "_templates/",
+    "images/"
+  ],
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "showRibbon": true
+}
