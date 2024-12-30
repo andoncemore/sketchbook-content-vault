@@ -1,7 +1,7 @@
 ---
 title: design as problem solving
 subtitle: 
-shortdesc: 
+shortdesc: I've realized that I'm not entirely against design as a problem solving, but instead I get most frustrated when designers aren't given the power and agency to frame those problems that they have to solve.
 thumbnail: 
 cssclasses: 
 tags:

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the love of design process.md",
+                "file": "making blobs.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "the love of design process"
+              "title": "making blobs"
             }
           }
         ],
@@ -181,27 +181,29 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-kanban:Create new board": false,
+      "tldraw:Create new tldrawing": false
     }
   },
   "active": "0eb531f4c9871662",
   "lastOpenFiles": [
-    "creating a decision tree.md",
+    "markov chains.md",
+    "local groups zine.md",
+    "intro to inputs with p5.md",
+    "making blobs.md",
+    "image classification with ml5js.md",
     "design as problem solving.md",
-    "definitions of design.md",
-    "creative technology.md",
+    "creating a decision tree.md",
     "building bots.md",
     "body tracking with ml5js.md",
-    "designing within the black box.md",
-    "everything as input 1.md",
     "ancestry zine.md",
-    "image classification with ml5js.md",
-    "local groups zine.md",
-    "making blobs.md",
     "text generation with openai api.md",
     "the love of design process.md",
     "what can a body do.md",
-    "markov chains.md",
+    "designing within the black box.md",
+    "definitions of design.md",
+    "creative technology.md",
     "_drawings/ancestory zine.md",
     "youtube algorithm diary.md",
     "_templates/how-to template.md",

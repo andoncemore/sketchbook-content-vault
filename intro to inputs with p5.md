@@ -1,7 +1,7 @@
 ---
-title: "everything as input: workshop 1"
+title: intro to inputs with p5
 subtitle: Getting familiar with p5 and prototyping cursors, buttons, and text fields
-shortdesc: 
+shortdesc: using p5js is a super quick approach to getting basic inputs prototypes off the ground
 thumbnail: 
 cssclasses: 
 tags:

@@ -1,7 +1,7 @@
 ---
 title: text generation with openai api
 subtitle: Learning to use text generation models with the openai api
-shortdesc: 
+shortdesc: " Can we really push just imagining LLM interfaces as search boxes or as human assistants? There's a huge opportunity for designers to rethink the *ENTIRE* chat-interface experience, and the openai api makes it so easy to prototype."
 thumbnail: 
 cssclasses: 
 tags:

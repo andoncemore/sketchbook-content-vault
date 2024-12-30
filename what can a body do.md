@@ -1,7 +1,7 @@
 ---
 title: What Can a Body Do?
 subtitle: By Sara Hendren
-shortdesc: A text is right here to start with
+shortdesc: What can a Body Do feels like the foundational design book that I wished I had when I started my career.
 thumbnail: ./images/book_covers/cover_what_can_a_body_do.png
 cssclasses: 
 tags:

@@ -9,7 +9,7 @@ tags:
 updated: 2024-10-07
 ---
 
-Through [[everything as input 1 | workshop 1]], you should be getting more familiar with the basics of making things in p5.js. We are now going to start playing with machine learning models you can implement in p5.js. 
+Through [[intro to inputs with p5| workshop 1]], you should be getting more familiar with the basics of making things in p5.js. We are now going to start playing with machine learning models you can implement in p5.js. 
 
 For this workshop, instead of starting from scratch, we are going to start from the examples in the ml5.js documentation and remix them. 
 

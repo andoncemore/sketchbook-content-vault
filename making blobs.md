@@ -1,7 +1,7 @@
 ---
 title: making blobs
 subtitle: 
-shortdesc: 
+shortdesc: I've been really interested in making computational blobs, and exploring the different mathematical approaches of generating them
 thumbnail: 
 cssclasses: 
 tags:

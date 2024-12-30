@@ -1,7 +1,7 @@
 ---
 title: designing within the black box
 subtitle: a 3-session workshop on AI, focused on making simple bots
-shortdesc: 
+shortdesc: "\"design and AI\" projects all too often take AI as a black box, just speculating on how the outputs of the system fit into various contexts. I think that designers have a responsibility to critically examine what's going on inside that black box, and then treat the algorithm as a site of design."
 thumbnail: 
 cssclasses: 
 tags:

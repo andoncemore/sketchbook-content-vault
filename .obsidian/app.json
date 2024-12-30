@@ -7,6 +7,6 @@
     "images/"
   ],
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "showRibbon": true
 }

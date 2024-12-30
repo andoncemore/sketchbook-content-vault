@@ -1,7 +1,7 @@
 ---
 title: markov chains
 subtitle: basic introduction to implementing a markov chain
-shortdesc: 
+shortdesc: making your own markov chains feels so relevant to understanding how LLMs work because they help you get a feel for probabilistic text generation at a more manageable scale
 thumbnail: 
 cssclasses: 
 tags:
