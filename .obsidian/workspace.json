@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "making blobs.md",
+                "file": "the love of design process.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "making blobs"
+              "title": "the love of design process"
             }
           }
         ],
@@ -188,12 +188,12 @@
   },
   "active": "0eb531f4c9871662",
   "lastOpenFiles": [
+    "design as problem solving.md",
+    "image classification with ml5js.md",
+    "making blobs.md",
     "markov chains.md",
     "local groups zine.md",
     "intro to inputs with p5.md",
-    "making blobs.md",
-    "image classification with ml5js.md",
-    "design as problem solving.md",
     "creating a decision tree.md",
     "building bots.md",
     "body tracking with ml5js.md",

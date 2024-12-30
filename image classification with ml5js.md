@@ -1,7 +1,7 @@
 ---
 title: image classification with ml5js
 subtitle: Learning to use the the image classification model in ml5.js
-shortdesc: 
+shortdesc: been exploring how to use image classifiers in the browser with ml5js, and especially playing with the teachable machine integration to bring in classifiers you train with your own datasets
 thumbnail: 
 cssclasses: 
 tags:
