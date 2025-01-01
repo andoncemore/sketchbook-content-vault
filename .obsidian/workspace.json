@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the love of design process.md",
+                "file": "building bots.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "the love of design process"
+              "title": "building bots"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"shortdesc\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,14 +166,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "17b0fd5263136242",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,27 +192,29 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "obsidian-kanban:Create new board": false,
-      "tldraw:Create new tldrawing": false
+      "tldraw:Create new tldrawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "0eb531f4c9871662",
+  "active": "b00476607e7343b1",
   "lastOpenFiles": [
+    "body tracking with ml5js.md",
+    "building bots.md",
+    "creative technology.md",
+    "definitions of design.md",
     "design as problem solving.md",
+    "creating a decision tree.md",
+    "ancestry zine.md",
+    "the love of design process.md",
     "image classification with ml5js.md",
     "making blobs.md",
     "markov chains.md",
     "local groups zine.md",
     "intro to inputs with p5.md",
-    "creating a decision tree.md",
-    "building bots.md",
-    "body tracking with ml5js.md",
-    "ancestry zine.md",
     "text generation with openai api.md",
-    "the love of design process.md",
     "what can a body do.md",
     "designing within the black box.md",
-    "definitions of design.md",
-    "creative technology.md",
     "_drawings/ancestory zine.md",
     "youtube algorithm diary.md",
     "_templates/how-to template.md",
